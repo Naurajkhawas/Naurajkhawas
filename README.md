@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naurajkhawas
-- 👀 I’m interested in machine learning and data science 
+- 👀 I’m interested in machine learning, data science, and artificial intelligence. 
 - 🌱 I’m currently learning web development and working with JavaScript, React, and Python.
 - 💞️ I’m looking to collaborate on data science projects, machine learning models, and web development.
 - 📫 How to reach me naurajkhawas18@gmail.com
